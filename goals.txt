@@ -1,0 +1,7 @@
+# My Personal and Academic Goals for Next Year
+
+1. Improve my coding skills by completing two online programming courses.
+2. Contribute to at least one open-source project on GitHub.
+3. Build a small robotics prototype and document the process.
+4. Enhance my UX design portfolio with three new projects.
+5. Learn intermediate data analysis using Python and R.
