@@ -1,0 +1,6 @@
+# Brief Introduction About Myself
+
+My name is Fatuma, and I am an engineering and robotics student with a strong interest in UX design and data analysis. 
+I enjoy learning about emerging technologies and exploring how they can improve accessibility and communication, especially through sign language interpretation.
+
+I’m passionate about creating solutions that merge technology and inclusivity, and I’m excited to learn how to use GitHub effectively for my future projects.
